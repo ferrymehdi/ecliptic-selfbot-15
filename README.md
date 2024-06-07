@@ -14,9 +14,9 @@
 
 ## About
 
-<strong>Welcome to `discord.js-selfbot-v13@v3.1`, based on `discord.js@13.17`</strong>
+<strong>Welcome to `ecliptic-selfbot-15`, based on `discord.js@15`</strong>
 
-- discord.js-selfbot-v13 is a [Node.js](https://nodejs.org) module that allows user accounts to interact with the Discord API v9.
+- ecliptic-selfbot-15 is a [Node.js](https://nodejs.org) module that allows user accounts to interact with the Discord API v9.
 
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 ### <strong>[Document Website](https://discordjs-self-v13.netlify.app/)</strong>
 
-### <strong>[Example Code](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/tree/main/examples)</strong>
+### <strong>[Example Code](https://github.com/ferrymehdi/ecliptic-selfbot-15/tree/main/examples)</strong>
 
 ## Features (User)
 - [x] Message: Embeds (WebEmbed)
@@ -55,13 +55,13 @@
 > Recommended Node.js version: 18+ (LTS)
 
 ```sh-session
-npm install discord.js-selfbot-v13@latest
+npm install ecliptic-selfbot-15@latest
 ```
 
 ## Example
 
 ```js
-const { Client } = require('discord.js-selfbot-v13');
+const { Client } = require('ecliptic-selfbot-15');
 const client = new Client();
 
 client.on('ready', async () => {
@@ -104,7 +104,7 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 - See [the contribution guide](https://github.com/discordjs/discord.js/blob/main/.github/CONTRIBUTING.md) if you'd like to submit a PR.
 
 ## Need help?
-Github Discussion: [Here](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/discussions)
+Github Discussion: [Here](https://github.com/ferrymehdi/ecliptic-selfbot-15/discussions)
 
 ## Credits
 - [Discord.js](https://github.com/discordjs/discord.js)

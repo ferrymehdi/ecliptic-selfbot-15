@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aiko-chan-ai/discord.js-selfbot-v13.git"
+    "url": "git+https://github.com/ferrymehdi/ecliptic-selfbot-15.git"
   },
   "keywords": [
     "discord.js",
@@ -44,12 +44,12 @@
     "client",
     "discordapp"
   ],
-  "author": "aiko-chan-ai",
+  "author": "ferrymehdi",
   "license": "GNU General Public License v3.0",
   "bugs": {
-    "url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues"
+    "url": "https://github.com/ferrymehdi/ecliptic-selfbot-15.git/issues"
   },
-  "homepage": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13#readme",
+  "homepage": "https://github.com/ferrymehdi/ecliptic-selfbot-15.git#readme",
   "dependencies": {
     "@aikochan2k6/qrcode-terminal": "^0.12.1",
     "@discordjs/builders": "^1.6.3",
